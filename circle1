@@ -1,0 +1,4 @@
+print("Input radius of the circle- ")
+r= float(input())
+a= 3.141 * r * r
+print("Area of the circle is %.3f" %a)
